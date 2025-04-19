@@ -167,7 +167,7 @@ VSZ (Virtual Memory Size): Virtual memory allocated
 
 ## Author
 A couple of AI chatbots and Daniel Horacio Braga  
-README generated and translated by Anthropic Claude - https://www.anthropic.com/claude
+README generated in spanish and translated by Anthropic Claude - https://www.anthropic.com/claude
 
 ## License
 
